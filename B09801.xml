@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for printing of Holwell's Book of dialling.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09801</idno><idno type="EEBO-CITATION">80923418</idno>
+  <idno type="VID">191968</idno>
+  <idno type="EEBO-PROQUEST">2248550903</idno>
+  
+            <idno type="OCLC"> 80923418</idno>
+            <idno type="STC">Wing P3735</idno>
+            <idno type="STC">ESTC R182178</idno>
+            <idno type="OCLC">80923418</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191968)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2896:40)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for printing of Holwell's Book of dialling.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Holwell, John, 1649-1686? --  Clavis horologiae; or, A key to the whole art of arithmetical dyalling.</term>
+               <term type="topical_term">Booksellers and bookselling --  England --  Colportage, subscription trade, etc. --  Early works to 1800.</term>
+               <term type="topical_term">Publishers and publishing --  England --  History --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:191968:1"/>
+            <head>PROPOSALS For PRINTING of Holwell's Book of DIALLING.</head>
+            <p>WHereas <hi>John Holwell,</hi> Teacher of the Mathematicks; having in some Pieces he hath Written, signi<g ref="char:EOLhyphen"/>fied his Intentions to Publish a small Piece of Dialling now ready for the Press, which he intends to be, <hi>A Key to the whole Art of Arithmetical Dialling:</hi>
+            </p>
+            <p>In Two Parts:<lb/> The First shewing how to make all manner of Regular, and how to reduce all Irregular Dials, to Regular forms, by means of a new Latitude and new Declination, with the several Projections, shewing where all the requisites lye in the Sphear.</p>
+            <p>The Second Part,<lb/> Shewing the placing of all the Furniture on all manner of Dials how<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>r Situated, and that Arithmetically, gi<g ref="char:EOLhyphen"/>ving their reasons Astronomically.</p>
+            <p>Whereunto will be Annexed,<lb/> The Tables of Altitude of the Sun, for the beginning of his Entrance in each Sign, and for each hour of the day, for all Latitudes, from one Degree to ninety, with Tables of <hi>Azimuth</hi> to each Latitude, and many other Tables, very useful in the Art of Shadows, with their use in making all Conceits in Dialling; too large to be repeated; as also the Description and making of the Conceited Dials that stood on the Pyramid in His Majesty's Privy Garden that was broke down of late Years: All which he doth Propose to bring into a Book in Quarto, con<g ref="char:EOLhyphen"/>taining forty Sheets, besides Copper Cuts, which will be forty, if not more, all the Projections and Dials being such. And because this Book hath been very much Inquired after, and the Booksellers care not to buy a Copy that is so chargeable, by which means an Author hath but small Encouragement to part with his Labour, that hath been so great for some Years, in framing of Tables that never were before made publick in the World, except he might have some advantageous consideration; therefore the Author, that he may be the better enabled to Print the same him<g ref="char:EOLhyphen"/>self, hath thought good to make these Proposals following, <hi>viz.</hi>
+               <list>
+                  <item>I. All those that Subscribe for one single Book, shall have it Bound up in Calves-leather for 6 <hi>s.</hi> one half of it to be paid at the time of Subscription, and the other half at the Delivery of the said Book, which to others shall not be Sold under 7 <hi>s.</hi>
+                  </item>
+                  <item>II. All those that do procure Subscriptions for six of these Books, shall have a seventh for themselves, <hi>gratis.</hi>
+                  </item>
+                  <item>III. All those Persons that are Encouragers of this VVork, shall (for their good will) have their Names Insert<g ref="char:EOLhyphen"/>ed in the said Book.</item>
+                  <item>IV. And for the further satisfaction of those that do Subscribe, the Author will not receive any part of the Mony for Subscription, till the Book is delivered; but it shall lye in the hands of those to whom they do Subscribe, for their better security.</item>
+                  <item>V. All those Persons that are pleased to Subscribe, are desired to send in their Names, and place of Abode, by the fifteenth day of <hi>September</hi> 1684. In order to the placing of them in the Book.</item>
+               </list>
+            </p>
+            <p>Lastly, The Author doth Intend (God willing) to have the Book Compleat for the Delivery, at <hi>Michlem. Term,</hi> 1684.</p>
+            <p>In <hi>London,</hi>
+            </p>
+            <p>For the conveniency of such that please to Subscribe, the Author hath appointed these places following, <hi>viz.</hi> At his own House on the East-side of <hi>Spittle-fields,</hi> over against <hi>Dorset-street,</hi> next door to a Glaziers, and Mr. <hi>Morden</hi> at the <hi>Atlas</hi> in <hi>Cornhill;</hi> Mr. <hi>Thornton,</hi> at the <hi>Sign</hi> of <hi>England, Scotland</hi> and <hi>Ireland,</hi> in the <hi>Minories;</hi> Mr. <hi>Hussey</hi> in <hi>Little Britain;</hi> Mr. <hi>Malthus</hi> at the <hi>Sun</hi> in the <hi>Poultrey;</hi> Mr. <hi>Wim</hi> Instrument-Maker, in <hi>Chancery</hi>-Lane; Mr. <hi>Lee,</hi> Globe-maker, in the <hi>Poultrey.</hi>
+            </p>
+            <list>
+               <head>In the <hi>Countrey.</hi>
+               </head>
+               <item>Mr. <hi>Church Simmons</hi> in <hi>Newbury.</hi>
+               </item>
+               <item>Mr. <hi>Stephen Dagnal</hi> in <hi>Alesbury.</hi>
+               </item>
+               <item>Mr. <hi>Richard Davis</hi> of <hi>Oxford.</hi>
+               </item>
+               <item>Mr. <hi>Henry Dickenson</hi> in <hi>Cambridge.</hi>
+               </item>
+               <item>Mr. <hi>John Seabourne</hi> in <hi>Kings-Lyn.</hi>
+               </item>
+               <item>Mr. <hi>John Butten</hi> on <hi>Tyne-Bridge</hi> in <hi>Newcastle.</hi>
+               </item>
+               <item>Mr. <hi>Christopher Speake</hi> in <hi>Kings Lyn.</hi>
+               </item>
+               <item>Mr. <hi>Richard Fenner</hi> in <hi>Canterbury.</hi>
+               </item>
+               <item>Mr. <hi>John How</hi> of <hi>Bridgwater.</hi>
+               </item>
+               <item>Mr. <hi>Lambert</hi> of <hi>York</hi> City.</item>
+               <item>Mr. <hi>Evans</hi> of <hi>Worcester</hi> City.</item>
+               <item>Mr. <hi>William Oliver</hi> of <hi>Norwich:</hi>
+               </item>
+               <item>Mr. <hi>Pawlet</hi> of <hi>Grantham.</hi>
+               </item>
+               <item>Mr. <hi>Obadiah Smith</hi> of <hi>Daventry.</hi>
+               </item>
+               <item>Mr. <hi>Smith</hi> of <hi>Coventry.</hi>
+               </item>
+               <item>Mr. <hi>John Meston</hi> of <hi>Bury St. Edmonds.</hi>
+               </item>
+               <item>Mr. <hi>Tho. Hunt</hi> of <hi>Marlborough.</hi>
+               </item>
+               <item>Mr. <hi>Edward Milleard</hi> of <hi>Litchfield.</hi>
+               </item>
+               <item>Mr. <hi>Goodrick</hi> of <hi>Hull.</hi>
+               </item>
+               <item>Mr. <hi>Richards</hi> of <hi>Nottingham.</hi>
+               </item>
+               <item>Mr. <hi>Tho. Wall</hi> of <hi>Bristol</hi> City.</item>
+               <item>Mr. <hi>Robert Foster</hi> of <hi>Shrewsbury.</hi>
+               </item>
+               <item>Mr <hi>Smith</hi> of <hi>Taunton.</hi>
+               </item>
+               <item>Mr. <hi>John Burton</hi> of <hi>Warrington.</hi>
+               </item>
+               <item>Mr. <hi>John Courtney</hi> of <hi>Salisbury.</hi>
+               </item>
+               <item>Mr. <hi>Hide</hi> of <hi>Exeter.</hi>
+               </item>
+               <item>Mr. <hi>William Weekly</hi> of <hi>Ipswich.</hi>
+               </item>
+               <item>Mr. <hi>Powel in South-hampton.</hi>
+               </item>
+               <item>Mr. <hi>Keeble White</hi> of the Isle of <hi>VVight.</hi>
+               </item>
+               <item>Mr. <hi>Hartford</hi> of <hi>Portsmouth.</hi>
+               </item>
+               <item>Mr. <hi>Love</hi> of <hi>Gloucester.</hi>
+               </item>
+               <item>Mr. <hi>VVilliam VVard</hi> of <hi>Leicester.</hi>
+               </item>
+               <item>Mr. <hi>Janeway</hi> of <hi>Chichester.</hi>
+               </item>
+               <item>Mr. <hi>Clark</hi> of <hi>VVinchester.</hi>
+               </item>
+               <item>Mr▪ <hi>Richard Hunt</hi> of <hi>Hereford.</hi>
+               </item>
+               <item>Mr. <hi>James Cock</hi> of <hi>Kendal.</hi>
+               </item>
+               <item>Mr. <hi>Joseph Lawson</hi> in the Bale of <hi>Lincoln.</hi>
+               </item>
+            </list>
+            <p>All Booksellers.</p>
+            <list>
+               <head>In <hi>Ireland.</hi>
+               </head>
+               <item>Mr. <hi>Joseph Howes,</hi> Bookseller in <hi>Dublin.</hi>
+               </item>
+               <item>Mr. <hi>David Jones,</hi> Bookseller in <hi>Corke.</hi>
+               </item>
+            </list>
+            <p>To receive Subscriptions, and no other; at which places will be delivered Printed Receipts under the hand of the Author.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
